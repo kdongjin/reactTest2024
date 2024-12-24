@@ -23,13 +23,3 @@ let flag = "extra2" in person;
 console.log(`flag = ${flag}`); 
 
 
-let arr5 = [ 
-    { name: "구길동" }, 
-    { name: "홍길동" }, 
-    { name: "저길동" }, 
-    { name: "고길동" }, 
-    ]; 
-    const finded = arr5.find( 
-    (item) => item.name !== "구길동" 
-    ); 
-    console.log(finded);  //{ name: "구길동" } 객체를 출력한

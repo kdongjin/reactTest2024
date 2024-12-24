@@ -23,8 +23,8 @@ let str2 = "10개";
 //console.log( parseInt(str2)+ 10); 
 
 //산술연산자에서 주의할점
-let num1 = 1.0; 
-let num2 = 2.0; 
+let num1 = 1; 
+let num2 = 2; 
 //console.log( num1 / num2); 
 
 //비교연산자 (==),(!=):비추 (===),(!==)강추,  (타입과 값을 같이비교한다. )
